@@ -1,6 +1,9 @@
 ""Editor
 nnoremap <Leader><space> :nohlsearch<CR>
 
+""Fugitive.vim
+nnoremap <Leader>g :Gstatus<CR>
+
 ""NERDTree
 nnoremap <c-l> :NERDTreeToggle<CR>
 
