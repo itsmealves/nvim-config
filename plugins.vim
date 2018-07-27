@@ -1,3 +1,6 @@
+""Deoplete
+let g:deoplete#enable_at_startup = 1
+
 ""CtrlP
 "Use ag for faster searching
 if executable('ag')
