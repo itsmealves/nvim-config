@@ -1,6 +1,13 @@
 ""Deoplete
 let g:deoplete#enable_at_startup = 1
 
+""Rainbow Parentheses
+"Always on
+au VimEnter * RainbowParenthesesToggle
+au Syntax * RainbowParenthesesLoadRound
+au Syntax * RainbowParenthesesLoadSquare
+au Syntax * RainbowParenthesesLoadBraces
+
 ""CtrlP
 "Use ag for faster searching
 if executable('ag')

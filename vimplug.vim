@@ -10,6 +10,8 @@ Plug 'tpope/vim-fireplace'
 Plug 'tpope/vim-commentary'
 Plug 'raimondi/delimitmate'
 Plug 'leafgarland/typescript-vim'
+Plug 'tpope/vim-classpath'
+Plug 'guns/vim-clojure-static'
 Plug 'tpope/vim-sexp-mappings-for-regular-people'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 

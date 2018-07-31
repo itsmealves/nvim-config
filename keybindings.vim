@@ -1,5 +1,6 @@
 ""Editor
 nnoremap <Leader><space> :nohlsearch<CR>
+nnoremap <Leader>r :source ~/.config/nvim/init.vim<CR>
 
 ""Fugitive.vim
 nnoremap <Leader>g :Gstatus<CR>
