@@ -17,3 +17,6 @@ let g:ctrlp_cmd = 'CtrlP'
 
 ""Ack.vim
 nnoremap <Leader>a :Ack!<Space>
+
+""Denite.vim
+nnoremap <Leader>b :Denite buffer<CR>

@@ -11,6 +11,8 @@ Plug 'tpope/vim-commentary'
 Plug 'raimondi/delimitmate'
 Plug 'leafgarland/typescript-vim'
 Plug 'tpope/vim-classpath'
+Plug 'alvan/vim-closetag'
+Plug 'vim-syntastic/syntastic'
 Plug 'guns/vim-clojure-static'
 Plug 'tpope/vim-sexp-mappings-for-regular-people'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
@@ -20,7 +22,7 @@ Plug 'mhinz/vim-signify'
 Plug 'tpope/vim-fugitive'
 
 "Navigation
-Plug 'kien/ctrlp.vim'
+Plug 'ctrlpvim/ctrlp.vim'
 Plug 'mileszs/ack.vim'
 Plug 'Shougo/denite.nvim'
 Plug 'terryma/vim-multiple-cursors'
