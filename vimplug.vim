@@ -32,8 +32,10 @@ Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 "Appearance
 Plug 'sjl/badwolf'
 Plug 'morhetz/gruvbox'
-Plug 'jnurmine/Zenburn'
+Plug 'vim-scripts/Zenburn'
+Plug 'romainl/Apprentice'
 Plug 'ayu-theme/ayu-vim'
+Plug 'crusoexia/vim-monokai'
 Plug 'rakr/vim-two-firewatch'
 Plug 'vim-airline/vim-airline'
 Plug 'connorholyday/vim-snazzy'
