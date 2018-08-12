@@ -32,7 +32,6 @@ Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 "Appearance
 Plug 'sjl/badwolf'
 Plug 'morhetz/gruvbox'
-Plug 'vim-scripts/Zenburn'
 Plug 'romainl/Apprentice'
 Plug 'ayu-theme/ayu-vim'
 Plug 'crusoexia/vim-monokai'
@@ -42,7 +41,6 @@ Plug 'connorholyday/vim-snazzy'
 Plug 'arcticicestudio/nord-vim'
 Plug 'kien/rainbow_parentheses.vim'
 Plug 'vim-airline/vim-airline-themes'
-Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'altercation/vim-colors-solarized'
 
 call plug#end()
