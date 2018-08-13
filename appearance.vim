@@ -8,6 +8,6 @@ filetype plugin indent on
 
 colorscheme nord
 
-let g:airline_theme='solarized'
+let g:airline_theme='bubblegum'
 let g:airline_solarized_bg='dark'
 
