@@ -1,3 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/home/gabriel/.vim/plugged'
+let g:netrw_dirhist_2='/home/gabriel/Projetos/carl/data'
+let g:netrw_dirhist_3='/home/gabriel/Projetos/carl/data/huoc'
+let g:netrw_dirhist_4='/home/gabriel/Projetos/carl/data/traditional'
+let g:netrw_dirhist_5='/home/gabriel/Projetos/carl/experiments'
+let g:netrw_dirhist_6='/home/gabriel/Projetos/carl/experiments/helpers'
+let g:netrw_dirhist_7='/home/gabriel/Projetos/iris'
