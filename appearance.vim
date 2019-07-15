@@ -1,6 +1,5 @@
 syntax on
 set background=dark
-filetype plugin indent on
 
 colorscheme solarized
 
