@@ -3,6 +3,7 @@ call plug#begin('~/.vim/plugged')
 "Editing
 Plug 'mxw/vim-jsx'
 Plug 'guns/vim-sexp'
+Plug 'lervag/vimtex'
 Plug 'Quramy/tsuquyomi'
 Plug 'tpope/vim-repeat'
 Plug 'tpope/vim-surround'
