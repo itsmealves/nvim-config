@@ -12,8 +12,10 @@ Plug 'raimondi/delimitmate'
 Plug 'leafgarland/typescript-vim'
 Plug 'tpope/vim-classpath'
 Plug 'alvan/vim-closetag'
+Plug 'thosakwe/vim-flutter'
 Plug 'vim-syntastic/syntastic'
 Plug 'guns/vim-clojure-static'
+Plug 'dart-lang/dart-vim-plugin'
 Plug 'tpope/vim-sexp-mappings-for-regular-people'
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 
@@ -36,11 +38,9 @@ Plug 'romainl/Apprentice'
 Plug 'ayu-theme/ayu-vim'
 Plug 'crusoexia/vim-monokai'
 Plug 'rakr/vim-two-firewatch'
-Plug 'vim-airline/vim-airline'
 Plug 'connorholyday/vim-snazzy'
 Plug 'arcticicestudio/nord-vim'
 Plug 'kien/rainbow_parentheses.vim'
-Plug 'vim-airline/vim-airline-themes'
 Plug 'altercation/vim-colors-solarized'
 
 call plug#end()
