@@ -21,3 +21,6 @@ endif
 if executable('ag')
   let g:ackprg = 'ag --vimgrep'
 endif
+
+""VIM-JSX
+let g:jsx_ext_required = 0

@@ -1,7 +1,9 @@
 call plug#begin('~/.vim/plugged')
 
 "Editing
+Plug 'tpope/vim-sleuth'
 Plug 'mxw/vim-jsx'
+Plug 'pangloss/vim-javascript'
 Plug 'guns/vim-sexp'
 Plug 'lervag/vimtex'
 Plug 'Quramy/tsuquyomi'
@@ -36,6 +38,7 @@ Plug 'scrooloose/nerdtree', { 'on': 'NERDTreeToggle' }
 Plug 'sjl/badwolf'
 Plug 'morhetz/gruvbox'
 Plug 'romainl/Apprentice'
+Plug 'dylanaraps/wal.vim'
 Plug 'ayu-theme/ayu-vim'
 Plug 'crusoexia/vim-monokai'
 Plug 'rakr/vim-two-firewatch'
